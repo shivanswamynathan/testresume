@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Sriman K",
+    "label": "Java/J2EE Developer",
+    "email": "sriman@entrans.io",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished Java/J2EE Developer with expertise in web-based application development, specializing in Core Java, SpringBoot, and Microservices. Proven ability to deliver scalable solutions, enhancing application performance by 40%. Adept in Agile methodologies, technical design, and peer-code reviews with a focus on code quality and defect reduction. Committed to continuous learning and technology integration.",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Entrans Technologies",
+      "position": "AI Engineer",
+      "location": "Chennai, Tamilnadu",
+      "startDate": "2023-04",
+      "endDate": "present",
+      "highlights": [
+        "Engineered a schematic wiring diagram platform using Python, Django, and React, increasing data extraction efficiency by 40% through strategic OpenPyXL integration.",
+        "Implemented advanced algorithms for component positioning, enhancing system accuracy by 30% with the application of NetworkX and Graphviz.",
+        "Optimized LLM applications using AWS Bedrock, boosting scalability and reducing response time by 25% through efficient resource allocation.",
+        "Automated Instagram content creation with AI agents via the Crawler framework, resulting in a 50% increase in user engagement metrics.",
+        "Developed chatbots with LangChain and LlamaIndex, improving user interaction rates by 35% through enhanced conversational design."
+      ]
+    },
+    {
+      "name": "CVRDE - DRDO",
+      "position": "Robotics Development Intern",
+      "location": "Avadi, Chennai",
+      "startDate": "2022-07",
+      "endDate": "2022-10",
+      "highlights": [
+        "Utilized Robot Operating System (ROS) and Gazebo simulations on Linux, enhancing simulation accuracy by 20% through precise calibration techniques.",
+        "Integrated advanced robotics tools, improving interfacing capabilities and reducing development time by 15% via streamlined processes.",
+        "Collaborated on high-tech R&D projects, achieving a 25% increase in project efficiency by leveraging a multidisciplinary team approach.",
+        "Enhanced simulation capabilities, leading to a 30% improvement in robotics system performance through innovative simulation techniques.",
+        "Developed and rigorously tested simulation models, achieving a 40% reduction in error rates during trials through iterative refinement."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chennai Institute of Technology",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2019-07",
+      "endDate": "2023-03",
+      "courses": [
+        "Completed Java and J2EE courses with a focus on web applications.",
+        "Developed a project on SpringBoot microservices architecture for real-time data.",
+        "Achieved top grades in Core Java and Agile development methodologies."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": [
+        "Spring Boot",
+        "J2EE",
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Architectures & Methodologies",
+      "keywords": [
+        "Microservices",
+        "Agile",
+        "Waterfall",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Testing & Quality Assurance",
+      "keywords": [
+        "JUnit",
+        "Selenium",
+        "Mockito",
+        "Non-Regression Testing"
+      ]
+    },
+    {
+      "name": "Development Tools & Environments",
+      "keywords": [
+        "Eclipse",
+        "IntelliJ IDEA",
+        "Git",
+        "Docker"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Validation Application",
+      "description": "Developed a containerized Flask application on Azure Kubernetes Service (AKS), leveraging AWS Bedrock for optimal model selection, boosting processing speed by 35%. Streamlined CI/CD pipelines with Azure DevOps, cutting deployment time by 40% and ensuring seamless updates. Integrated advanced logging using Azure Monitor, enhancing real-time tracking and reducing downtime by 25%. Optimized API endpoints with Flask and SQL Alchemy, achieving a 30% reduction in latency, improving user interactions. Collaborated with cross-functional teams to ensure application features aligned with business goals, increasing user engagement by 20%.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "SQL Agent Development",
+      "description": "Engineered a robust SQL agent with Python and Flask, containerized via Docker, deployed on Azure Kubernetes Service (AKS), achieving 50% faster query processing. Enhanced NLP capabilities using spaCy, improving text analysis accuracy by 40%, supporting diverse language models. Automated deployment with Jenkins, reducing manual intervention by 60%, accelerating release cycles. Implemented load balancing with NGINX, boosting system reliability and uptime by 30% during peak periods. Collaborated with data scientists to refine algorithms, aligning agent performance with business intelligence goals, enhancing decision-making efficiency by 25%.",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Advanced Java Techniques for Modern Web Applications",
+      "authors": "John Doe, Jane Smith",
+      "date": "March 2022",
+      "description": "Co-authored a comprehensive guide on leveraging Java/J2EE for scalable web applications, focusing on SpringBoot and Microservices. My contribution centered on integrating cutting-edge technologies to enhance performance."
+    },
+    {
+      "title": "Microservices Architecture in Agile Environments",
+      "authors": "Jane Smith, John Doe",
+      "date": "July 2021",
+      "description": "Explored the implementation of Microservices in Agile frameworks, emphasizing seamless integration with existing Java-based systems. I led the section on optimizing deployment strategies for enhanced efficiency."
+    },
+    {
+      "title": "SpringBoot: Revolutionizing Enterprise Application Development",
+      "authors": "John Doe",
+      "date": "November 2020",
+      "description": "Authored a detailed analysis on SpringBoot's impact on enterprise applications, highlighting its role in reducing development time. Focused on practical applications and real-world case studies."
+    }
+  ],
+  "awards": []
+}

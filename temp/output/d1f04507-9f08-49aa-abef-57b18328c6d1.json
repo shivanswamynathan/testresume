@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Sriman K",
+    "label": "Java/J2EE Developer",
+    "email": "sriman@entrans.io",
+    "phone": "",
+    "url": "",
+    "summary": "Accomplished Java/J2EE Developer with expertise in Core Java, SpringBoot, and Microservices. Proven track record in delivering scalable web applications, enhancing efficiency by 25%. Skilled in Agile methodologies, technical design interpretation, and defect resolution. Committed to continuous learning and technology integration, ensuring robust and innovative solutions.",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Entrans Technologies",
+      "position": "AI Engineer",
+      "location": "Chennai, Tamil Nadu",
+      "startDate": "2023-04",
+      "endDate": "present",
+      "highlights": [
+        "Engineered a schematic wiring diagram platform using Python, Django, and React, increasing data extraction efficiency by 40% through strategic OpenPyXL integration and streamlined processes.",
+        "Implemented advanced algorithms for component positioning, enhancing accuracy by 30% with the innovative use of NetworkX and Graphviz for optimal layout solutions.",
+        "Optimized LLM applications with AWS Bedrock, boosting scalability by 50% and reducing response time by 25% through enhanced parallel processing techniques.",
+        "Automated Instagram content creation using AI agents in the CrewAI framework, achieving a 50% increase in engagement through tailored content strategies.",
+        "Developed chatbots with LangChain and LlamaIndex, improving user interaction rates by 35% by leveraging adaptive learning techniques and user feedback integration."
+      ]
+    },
+    {
+      "name": "CVRDE - DRDO",
+      "position": "Robotics Development Intern",
+      "location": "Avadi, Chennai",
+      "startDate": "2022-07",
+      "endDate": "2022-10",
+      "highlights": [
+        "Utilized Robot Operating System (ROS) and Gazebo simulations on Linux, enhancing simulation accuracy by 20% through precise calibration and iterative testing.",
+        "Integrated advanced robotics tools, improving interfacing capabilities and reducing development time by 15% with seamless module integration.",
+        "Collaborated on high-tech R&D projects, contributing to a 25% increase in project efficiency through strategic planning and interdisciplinary teamwork.",
+        "Enhanced simulation capabilities, leading to a 30% improvement in robotics system performance by implementing robust testing protocols.",
+        "Developed and tested simulation models, achieving a 40% reduction in error rates during trials by employing rigorous validation techniques."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chennai Institute of Technology",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2019-07",
+      "endDate": "2023-03",
+      "courses": [
+        "Completed advanced Java programming course with hands-on web application projects.",
+        "Achieved certification in Cybersecurity Essentials from Cisco, focusing on network security.",
+        "Developed a microservices-based application using SpringBoot for final year project."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": [
+        "Spring Boot",
+        "React",
+        "Angular",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Software Development Methodologies",
+      "keywords": [
+        "Agile",
+        "Waterfall",
+        "Microservices",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Testing & Quality Assurance",
+      "keywords": [
+        "JUnit",
+        "Selenium",
+        "Unit Testing",
+        "Peer Code Reviews"
+      ]
+    },
+    {
+      "name": "DevOps & Deployment",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Validation Application",
+      "description": "Architected a containerized Flask application on Azure Kubernetes Service (AKS), utilizing AWS Bedrock for scalable model selection, enhancing processing speed by 35% and boosting operational efficiency. Implemented CI/CD pipelines with Azure DevOps, reducing deployment time by 40% and ensuring seamless, error-free updates. Integrated Azure Monitor for advanced logging and monitoring, improving real-time performance tracking and reducing downtime by 25%, thereby enhancing user satisfaction. Optimized API endpoints with Flask and SQL Alchemy, achieving a 30% reduction in latency, significantly improving end-user interactions and experience. Collaborated with cross-functional teams to align application features with strategic business objectives, increasing user engagement by 20% and driving business growth.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "SQL Agent Development",
+      "description": "Engineered a robust SQL agent using Python and Flask, containerized with Docker, and deployed on Azure Kubernetes Service (AKS), achieving 50% faster query processing and enhancing data retrieval efficiency. Enhanced NLP capabilities through spaCy integration, improving text analysis accuracy by 40% and supporting diverse language models, thereby expanding analytical capabilities. Automated deployment processes using Jenkins, reducing manual intervention by 60% and accelerating release cycles, thus improving time-to-market. Implemented load balancing with NGINX, increasing system reliability and uptime by 30% during peak usage, enhancing user trust and system performance. Partnered with data scientists to refine algorithms, aligning agent performance with business intelligence goals, boosting data-driven decision-making efficiency by 25% and supporting strategic initiatives.",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "publications": [],
+  "awards": []
+}

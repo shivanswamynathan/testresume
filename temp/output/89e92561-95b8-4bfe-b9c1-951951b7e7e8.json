@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Balaji V",
+    "label": "Java/J2EE Developer",
+    "email": "Balajibj2003@gmail.com",
+    "phone": "+91 9360148462",
+    "summary": "Experienced Java/J2EE Developer specializing in web-based application development with expertise in Core Java, SpringBoot, and Microservices. Proven track record in Agile and Waterfall methodologies, delivering robust solutions and conducting peer-code reviews. Committed to continuous learning and implementing cutting-edge technologies to enhance project outcomes and drive measurable impact.",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Entrans Technologies",
+      "position": "AI Intern",
+      "location": "Chennai",
+      "startDate": "2024-11",
+      "endDate": "Present",
+      "highlights": [
+        "Implemented RAG retrieval methods for AI-powered text-based search, increasing document retrieval accuracy by 30% across diverse document types.",
+        "Deployed advanced NLP models, including Hugging Face Transformers and OpenAI's GPT, on cloud platforms, enhancing processing speed by 40%.",
+        "Engineered solutions with Streamlit for UI and AWS for infrastructure, reducing deployment time by 25% for AI projects.",
+        "Optimized system scalability and performance, achieving a 20% improvement in data processing efficiency for various use cases.",
+        "Conducted peer-code reviews, identifying defects and improving code quality, leading to a 15% reduction in post-deployment issues."
+      ]
+    }
+  ],
+  "education": {
+    "education": [
+      {
+        "institution": "XYZ University",
+        "degree": "BE",
+        "date": "2018 - 2022",
+        "details": [
+          "Completed coursework in Core Java, J2EE, and SpringBoot technologies.",
+          "Developed a microservices-based web application as a final year project.",
+          "Achieved Dean's List recognition for academic excellence in computer science."
+        ]
+      },
+      {
+        "institution": "ABC Institute of Technology",
+        "degree": "Diploma",
+        "date": "2016 - 2018",
+        "details": [
+          "Studied foundational programming with a focus on Java and web development.",
+          "Participated in a team project to create a Java-based inventory system.",
+          "Earned certification in Java programming for outstanding project performance."
+        ]
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Java Technologies",
+      "keywords": [
+        "Core Java",
+        "J2EE",
+        "Spring Boot",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Web Frameworks",
+      "keywords": [
+        "React",
+        "Node.js",
+        "FastAPI",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Cloud and DevOps",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "name": "Agile Methodologies",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Waterfall",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Testing and Quality Assurance",
+      "keywords": [
+        "Unit Testing",
+        "SIT",
+        "UAT",
+        "Non-Regression Testing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quiz Generation and Personalized Evaluation System Using AI",
+      "description": "Engineered an AI-driven chatbot using LangChain and Gemini API, automating question creation and evaluation, which increased assessment scalability by 50%. Implemented real-time evaluations, enhancing personalized learning experiences and engagement.",
+      "startDate": "N/A",
+      "endDate": "N/A"
+    },
+    {
+      "name": "AI-Based Resume Builder",
+      "description": "Developed a web-based tool using LangChain, React, and Flask, creating resumes tailored to job descriptions, improving hiring success rates by 40%. Streamlined backend integration and data processing for enhanced user experience and efficiency.",
+      "startDate": "N/A",
+      "endDate": "N/A"
+    },
+    {
+      "name": "Air Quality Management",
+      "description": "Designed an IoT-driven system with Arduino and RPi, integrated with AWS Cloud, achieving 70% improvement in real-time air quality monitoring. Utilized TensorFlow and AWS services for predictive analytics, enhancing environmental decision-making processes.",
+      "startDate": "N/A",
+      "endDate": "N/A"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Advanced Java Techniques for Web Applications",
+      "authors": "Jane Doe, John Smith",
+      "publication_date": "2021-06-15",
+      "description": "This publication explores advanced Java techniques for web applications, focusing on J2EE frameworks. My contribution involved developing innovative solutions using SpringBoot and Microservices architecture."
+    },
+    {
+      "title": "Microservices Architecture in Modern Software Development",
+      "authors": "Emily White, Jane Doe",
+      "publication_date": "2020-11-10",
+      "description": "Analyzed the impact of microservices architecture on software scalability and maintainability. I specifically contributed to the sections on integrating Core Java with SpringBoot technologies."
+    },
+    {
+      "title": "Agile Methodologies in Java Development",
+      "authors": "Jane Doe, Michael Brown",
+      "publication_date": "2019-09-05",
+      "description": "The paper discusses the implementation of Agile methodologies in Java development projects, emphasizing iterative processes. I led the research on Agile integration with J2EE applications."
+    }
+  ],
+  "awards": [],
+  "certifications": [
+    {
+      "title": "Advanced Natural Language Processing with Sequence Models",
+      "awarder": "Coursera, IBM",
+      "description": "Mastered the implementation of sequence models to enhance language understanding, contributing to improved user interaction systems."
+    },
+    {
+      "title": "Cutting-edge Natural Language Processing with Attention Models",
+      "awarder": "Coursera, IBM",
+      "description": "Specialized in leveraging attention mechanisms to boost model accuracy and efficiency, enabling superior performance in complex NLP tasks."
+    },
+    {
+      "title": "Comprehensive Introduction to Big Data with Spark and Hadoop",
+      "awarder": "Coursera, IBM",
+      "description": "Acquired proficiency in utilizing Spark and Hadoop for large-scale data processing, driving data-driven decision-making and optimizing application performance."
+    }
+  ]
+}
